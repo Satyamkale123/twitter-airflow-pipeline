@@ -2,7 +2,7 @@
 
 Automated pipeline that extracts tweets via **Tweepy**, transforms to a clean tabular format with **Pandas**, and orchestrates the workflow using **Apache Airflow** on **AWS EC2**, landing daily CSVs in **Amazon S3**.
 
-![Architecture](assets/architecture.png)
+![Architecture](T_A_architecture.png)
 
 ---
 
